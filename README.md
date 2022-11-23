@@ -20,4 +20,5 @@ to compiler it into a html file.
 # Contributors 
 <a href="https://github.com/PaulDuanGitHub/MathVisualizer/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=PaulDuanGitHub/MathVisualizer" />
+  
 </a>
